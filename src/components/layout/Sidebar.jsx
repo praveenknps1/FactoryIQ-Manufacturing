@@ -20,11 +20,11 @@ export function visibleNavForRole(role) {
   return NAV
 }
 
-/**
- * Fixed-height nav rail. Icon-only and narrow (64px) below the `lg`
- * breakpoint to maximize room for page content on phones/tablets; expands
- * to a labeled 220px column on desktop.
- */
+
+ //* Fixed-height nav rail. Icon-only and narrow (64px) below the `lg`
+ //* breakpoint to maximize room for page content on phones/tablets; expands
+ //* to a labeled 220px column on desktop.
+
 export default function Sidebar({ role, onSignOut }) {
   const items = visibleNavForRole(role)
 

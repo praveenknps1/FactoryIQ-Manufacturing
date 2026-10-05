@@ -1,6 +1,6 @@
-/**
- * Small shared UI primitives reused across every module page.
- */
+
+ //* Small shared UI primitives reused across every module page.
+ 
 
 export function SectionHeader({ title, sub, actions }) {
   return (
