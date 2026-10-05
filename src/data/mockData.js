@@ -1,6 +1,5 @@
 // ─── DUMMY DATA ──────────────────────────────────────────────────────────────
 // Centralized sample data. Swap for real ERP/MES/PLM/QMS/WMS integrations
-// (see requirements doc) without touching any page component.
 
 export const ROLES = ["Admin", "Manager", "Engineer", "Customer"];
 
